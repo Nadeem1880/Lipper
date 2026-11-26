@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+youtube-transcript-api
+moviepy==1.0.3
+numpy
+pillow
